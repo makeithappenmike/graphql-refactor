@@ -14,10 +14,7 @@ const PORT = process.env.PORT || 3003;
 // Call Apollo
 const server = new ApolloServer({
   typeDefs,
-  resolvers: {
-    Query,
-    Mutation
-  }
+  resolvers
 });
 
 app.use(express.urlencoded({ extended: true }));

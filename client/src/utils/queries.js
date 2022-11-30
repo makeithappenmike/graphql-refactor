@@ -7,7 +7,7 @@ export const GET_ME = gql`
         username: String
         email: String
         bookCount: Int
-        savedBook: [Books]
+        savedBook: String
     }
   }
 `;
