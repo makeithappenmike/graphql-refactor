@@ -25,7 +25,8 @@ The app currently runs in Development mode, but not in Production.
 [Usage](#usage)<br />[License](#license)<br />[Questions](#questions)
 
 ## Usage
-* ```npm install``` to install dependencies. * ```npm run develop``` to use the app in Development mode.
+* ```npm install``` to install dependencies.
+* ```npm run develop``` to use the app in Development mode.
 * ```npm run start``` to boot the app in production.
 
 ## License
