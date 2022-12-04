@@ -16,6 +16,8 @@ Key refactor includes:
 
 Visit the site here: https://mmartens-graphql-refactor.herokuapp.com/
 
+The app currently runs in Development mode, but not in Production.
+
 <img src="./client/public/screenshot.png" />
 <br>
 
